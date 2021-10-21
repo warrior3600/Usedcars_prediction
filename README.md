@@ -12,6 +12,5 @@
 <p>Factors such as standardized dealership experience, high price experience, and high financing cost for used cars may hinder the growth of the used car market. Some of the major players dominating the market are OLX, Mahindra First Choice Wheels, Cars24, Maruti True Value, Hyundai H Promise, and Droom, among others.</p>
 
 ![image](https://user-images.githubusercontent.com/91599788/138348082-e9332bd4-bd24-4ec8-ae95-a26f041e7739.png)
-
 ![image](https://user-images.githubusercontent.com/91599788/138348176-fd31ba61-4187-452c-8ec2-cce5679b6921.png)
 
